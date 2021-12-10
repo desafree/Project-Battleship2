@@ -1,0 +1,1 @@
+const containerShipFunc1 = require('./containerShipFunc1')
